@@ -1,0 +1,10 @@
+.btn{
+    text-align: end;
+    background-color: bisque;
+    color: black;
+}
+.btn:hover{
+    background-color: dimgrey;
+    color: aliceblue;
+    cursor: pointer;
+}
