@@ -2,4 +2,21 @@ h1 {
     color: #369;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 250%;
-  }
+}
+
+nav a {
+    display: inline-block;
+    width: 225px;
+    margin: 20px;
+    background-color: darkslategrey;
+    color: beige;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 100%;
+}
+
+nav a:hover {
+    color: white;
+    background-color: rgb(6, 34, 34);
+    cursor: pointer;
+}
